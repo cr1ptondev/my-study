@@ -1,2 +1,2 @@
 # python-bot
-Work project 
+Study Pithon and work project (Telegram Bots)
