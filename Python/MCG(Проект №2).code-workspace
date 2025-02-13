@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Исток (Проект №1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MCG(Проект №2)"
+	}
+}
